@@ -1,6 +1,6 @@
 {
   "name": "brainyy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "**Brainy UI** is a smart, functional React component library designed to handle common frontend use cases — with built-in logic, helpful UX, and sleek styling using Tailwind CSS.",
   "bin": {
     "brainyy": "./bin/index.js"
