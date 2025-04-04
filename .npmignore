@@ -1,0 +1,6 @@
+example/
+node_modules/
+.git/
+.vscode/
+*.log
+.DS_Store

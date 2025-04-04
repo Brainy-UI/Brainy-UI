@@ -1,0 +1,55 @@
+{
+  "name": "brainyy",
+  "version": "1.0.0",
+  "description": "**Brainy UI** is a smart, functional React component library designed to handle common frontend use cases — with built-in logic, helpful UX, and sleek styling using Tailwind CSS.",
+  "bin": {
+    "brainyy": "./bin/index.js"
+  },
+  "files": [
+    "bin",
+    "snippets",
+    "src/components"
+  ],
+  "type": "module",
+  "dependencies": {
+    "brainy": "file:",
+    "brainyy": "file:",
+    "chalk": "^5.0.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "fs-extra": "^11.0.0",
+    "inquirer": "^9.0.0",
+    "tailwind-merge": "^3.1.0",
+    "zxcvbn": "^4.4.2"
+  },
+  "peerDependencies": {
+    "@radix-ui/react-label": "^2.1.2",
+    "@radix-ui/react-popover": "^1.1.6",
+    "@radix-ui/react-progress": "^1.1.2",
+    "react": "^17.0.0 || ^18.0.0 || ^19.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0 || ^19.0.0"
+  },
+  "devDependencies": {
+    "@radix-ui/react-label": "^2.1.2",
+    "@radix-ui/react-popover": "^1.1.6",
+    "@radix-ui/react-progress": "^1.1.2",
+    "@types/react": "^19.1.0",
+    "@types/zxcvbn": "^4.4.5",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "keywords": [
+    "react",
+    "component-library",
+    "ui",
+    "tailwind",
+    "password-strength",
+    "cli"
+  ],
+  "author": "NirajSalunke",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brainy-UI/Brainy-UI.git"
+  }
+}
