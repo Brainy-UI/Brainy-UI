@@ -20,13 +20,7 @@
 ## 📦 Installation
 
 ```bash
-npm install brainyy
-```
-
-Or if you're using Yarn:
-
-```bash
-yarn add brainyy
+npm install brainy
 ```
 
 > You also need to have `@radix-ui` components, `react`, and `tailwindcss` installed.
@@ -40,7 +34,7 @@ Brainyy includes a CLI tool to easily add components to your project.
 ### Step 1: Add CLI globally or use `npx`
 
 ```bash
-npx brainyy add password-analyzer
+npx brainy add password-analyzer
 ```
 
 This will:

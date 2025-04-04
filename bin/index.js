@@ -31,7 +31,7 @@ switch (command) {
   default:
     log(
       chalk.red(
-        "❌ Unknown command. Try `brainy init` or `brainy add password-analyzer`"
+        "❌ Unknown command. Try `brainyy init` or `brainyy add password-analyzer`"
       )
     );
     break;
