@@ -1,4 +1,8 @@
+![image](https://github.com/user-attachments/assets/c94d76ef-5859-4407-a2cf-a3604d1930db)
 # 🧠 Brainyy UI
+![image](https://github.com/user-attachments/assets/3909d3ac-21e9-48e8-b9d9-d2566d9ce44b)
+
+
 
 **Brainyy UI** is a smart, functional React component library designed to handle common frontend use cases — with built-in logic, helpful UX, and sleek styling using Tailwind CSS.
 
